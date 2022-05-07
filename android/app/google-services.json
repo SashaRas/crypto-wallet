@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "258538260881",
+    "project_id": "fir-crypto-wallet-81c59",
+    "storage_bucket": "fir-crypto-wallet-81c59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258538260881:android:9b1cbea2ba15c0946e3230",
+        "android_client_info": {
+          "package_name": "com.example.fire_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258538260881-2bco7qoda4bl96h6l7hhtsgssgf70vpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB0_6b-k6eZr5V3LYHDg4Yp6qQ5ftXsJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258538260881-2bco7qoda4bl96h6l7hhtsgssgf70vpv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "258538260881-m749ulib01s4l759lps8j6loljiqa1u7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fireBook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
